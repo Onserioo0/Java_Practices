@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1668b692-5daa-47fb-9fc0-baa784648b1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Practices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sample/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sample/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sample/Example3.java" afterDir="false" />
+    <list default="true" id="1668b692-5daa-47fb-9fc0-baa784648b1f" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample/Example9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +49,101 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Example20">
+    <configuration name="Example16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample.Example16" />
+      <module name="Java Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample.Example17" />
+      <module name="Java Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample.Example18" />
+      <module name="Java Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample.Example19" />
+      <module name="Java Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample.Example20" />
+      <module name="Java Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example20" />
+        <item itemvalue="Application.Example19" />
+        <item itemvalue="Application.Example18" />
+        <item itemvalue="Application.Example17" />
+        <item itemvalue="Application.Example16" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,9 +153,34 @@
       <option name="presentableId" value="Default" />
       <updated>1676006773665</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1676007758408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676007758408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
